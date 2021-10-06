@@ -1,3 +1,4 @@
+"Date","StartTime","DayOfWeek","GoingTo","Distance","MaxSpeed","AvgSpeed","AvgMovingSpeed","FuelEconomy","TotalTime","MovingTime","Take407All"
 2012-01-06,"16:37:00","Friday","Home",51.29,127.4,78.3,84.8,8.54,39.3,36.3,"No"
 2012-01-06,"08:20:00","Friday","GSK",51.63,130.3,81.8,88.9,8.89,37.9,34.9,"No"
 2012-01-04,"16:17:00","Wednesday","Home",51.27,127.4,82,85.8,8.54,37.5,35.9,"No"
